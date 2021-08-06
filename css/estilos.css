@@ -1,0 +1,100 @@
+.container {
+    background: white;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.item {
+    background: rgb(177, 209, 221);
+    width: 100%;
+    height: 40px;
+}
+
+.elementos {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.item1 {
+    background: rgb(255, 123, 0);
+    width: 27%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.item2 {
+    background: green;
+    width: 27%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.item3 {
+    background: blue;
+    width: 27%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.item4 {
+    background: rosybrown;
+    width: 27%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.item5 {
+    background: red;
+    width: 27%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.item6 {
+    background: aqua;
+    width: 27%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.item7 {
+    background: rgb(177, 209, 221);
+    width: 100%;
+    height: 40px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    color: black;
+    padding: 40px;
+    width: 100%;
+    height: 100px;
+}
+
+.imghome {
+    width: 100%;
+    height: 700px;
+    background-image: url(../imagenes/imagen1.jpg);
+    background-repeat: no-repeat;
+}
